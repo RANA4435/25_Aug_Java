@@ -1,0 +1,38 @@
+Advanced Problem — Bank Account Management
+Advanced
+Problem statement:
+
+Create a BankAccount class that manages a customer's bank account securely using getters and setters.
+Requirements
+Declare these private variables:
+- accountHolder (String)
+- accountNumber (String)
+- balance (double)
+Implement the following rules:
+1. Create getters and setters for accountHolder and accountNumber.
+2. Allow the balance to be read using getBalance().
+3. Do not create a public setter for balance. Instead, create deposit(double amount) and withdraw(double amount) methods.
+4. Deposit only positive amounts.
+5. Allow withdrawals only when the amount is positive and does not exceed the available balance.
+6. If a deposit or withdrawal is invalid, print an appropriate error message.
+7. Create a main() method to test all these operations.
+Test scenario
+Start with a balance of ₹5,000.
+Operation	Amount
+Deposit	₹2,000
+Withdraw	₹1,500
+Withdraw	₹10,000
+Deposit	-₹500
+
+Expected final balance:
+Balance: 5500.0
+
+
+The invalid transactions must not change the balance.
+
+Hint: Initialize the balance through a constructor, or use a suitable initial value inside the class. Never allow the caller to directly overwrite the balance through a setter.
+
+What you should learn
+- Problem 1: How getters and setters work and why fields are declared private.
+- Problem 2: How encapsulation protects data and enforces business rules.
+My suggestion: solve Problem 1 first, then attempt Problem 2 without looking up a solution. Send me your code, and I'll review it like an interviewer.

@@ -1,69 +1,29 @@
-2026-09-29 16:20:04.848: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-09-29 16:20:04.848: [INFO] Profiles total count: 1
-2026-09-29 16:20:04.848: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
-2026-09-29 16:20:04.848: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-09-29 16:20:04.848: [INFO] OnDoneLoading sync enabled: 0
-2026-09-29 16:20:04.848: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-09-29 16:20:04.848: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-09-29 16:20:04.848: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-09-29 16:20:16.033: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-09-29 16:20:16.754: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-09-29 16:20:16.754: [INFO] Profiles total count: 1
-2026-09-29 16:20:16.754: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T16:20:11.429Z
-2026-09-29 16:20:16.754: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-09-29 16:20:16.754: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T16:20:11.429Z
-2026-09-29 16:20:16.754: [INFO] OnDoneLoading sync enabled: 0
-2026-09-29 16:20:16.754: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-09-29 16:20:16.754: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-09-29 16:20:16.754: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-09-29 16:20:31.509: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-09-29 16:21:08.652: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-09-29 16:21:08.652: [INFO] Profiles total count: 1
-2026-09-29 16:21:08.652: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T16:20:11.429Z
-2026-09-29 16:21:08.652: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-09-29 16:21:08.652: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T16:20:11.429Z
-2026-09-29 16:21:08.652: [INFO] OnDoneLoading sync enabled: 0
-2026-09-29 16:21:08.652: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-09-29 16:21:08.652: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-09-29 16:21:08.652: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-09-29 16:39:11.300: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-09-29 16:39:36.435: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-09-29 16:39:36.435: [INFO] Profiles total count: 1
-2026-09-29 16:39:36.436: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T16:39:10.627Z
-2026-09-29 16:39:36.436: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-09-29 16:39:36.436: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T16:39:10.627Z
-2026-09-29 16:39:36.436: [INFO] OnDoneLoading sync enabled: 0
-2026-09-29 16:39:36.436: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-09-29 16:39:36.436: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-09-29 16:39:36.436: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-09-29 16:39:56.243: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-10-01 06:54:59.211: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-10-01 06:54:59.211: [INFO] Profiles total count: 1
-2026-10-01 06:54:59.211: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T16:39:41.258Z
-2026-10-01 06:54:59.211: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-10-01 06:54:59.211: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T16:39:41.258Z
-2026-10-01 06:54:59.211: [INFO] OnDoneLoading sync enabled: 0
-2026-10-01 06:54:59.211: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-10-01 06:54:59.211: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-10-01 06:54:59.211: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-10-01 08:44:59.566: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-10-01 08:45:24.323: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-10-01 08:45:24.323: [INFO] Profiles total count: 1
-2026-10-01 08:45:24.323: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-01T08:42:55.435Z
-2026-10-01 08:45:24.323: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-10-01 08:45:24.323: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-01T08:42:55.435Z
-2026-10-01 08:45:24.323: [INFO] OnDoneLoading sync enabled: 0
-2026-10-01 08:45:24.323: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-10-01 08:45:24.323: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-10-01 08:45:24.323: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-10-01 09:01:46.740: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-10-02 06:30:02.966: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-10-02 06:30:02.966: [INFO] Profiles total count: 1
-2026-10-02 06:30:02.967: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-01T08:42:55.435Z
-2026-10-02 06:30:02.967: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
-2026-10-02 06:30:02.967: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-01T08:42:55.435Z
-2026-10-02 06:30:02.967: [INFO] OnDoneLoading sync enabled: 0
-2026-10-02 06:30:02.967: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-10-02 06:30:02.967: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-10-02 06:30:02.967: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-10-02 06:43:15.554: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 10:05:30.706: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:05:30.706: [INFO] Profiles total count: 1
+2026-10-21 10:05:30.706: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-21 10:05:30.706: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:05:30.706: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 10:05:30.706: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 10:05:30.706: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 10:05:30.706: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 10:05:40.248: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 10:05:40.913: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:05:40.913: [INFO] Profiles total count: 1
+2026-10-21 10:05:40.914: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T10:05:38.389Z
+2026-10-21 10:05:40.914: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:05:40.914: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T10:05:38.389Z
+2026-10-21 10:05:40.914: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 10:05:40.914: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 10:05:40.914: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 10:05:40.914: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 10:05:57.456: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 10:06:48.752: [INFO] CurrentProfilePath: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:06:48.752: [INFO] Profiles total count: 1
+2026-10-21 10:06:48.752: [INFO] Profile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T10:05:38.389Z
+2026-10-21 10:06:48.752: [INFO] LastUsedProfileDir: C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:06:48.752: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\kamde\OneDrive\Desktop\Java Kodewala 25 Aug\Day 15\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T10:05:38.389Z
+2026-10-21 10:06:48.752: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 10:06:48.752: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 10:06:48.752: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 10:06:48.752: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 10:06:59.065: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
